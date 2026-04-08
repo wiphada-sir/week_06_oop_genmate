@@ -6,7 +6,7 @@ class Drink {
   }
 }
 
-Module.exports = Drink;
+module.exports = Drink;
 
 //Add sub class
 //Mzx ->Beer->defree, Give->Softdrink->sugar, Palm->Juice->madeFrom, O'->Tea->fromCountry, Weaw->Coffee->beanType
